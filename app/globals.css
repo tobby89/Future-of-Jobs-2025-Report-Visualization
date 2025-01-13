@@ -92,3 +92,62 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+.chart-container {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.recharts-wrapper {
+  max-width: 100%;
+}
+
+.recharts-responsive-container {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.chart-Raefj6 {
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: auto;
+}
+
+.chart-Raefj6 .recharts-wrapper {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.emerging-jobs-chart {
+  width: 100% !important;
+  overflow-x: hidden;
+}
+
+.emerging-jobs-chart .recharts-responsive-container {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.emerging-jobs-chart .recharts-wrapper {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.custom-button {
+  background-color: hsl(var(--chart-3));
+  color: hsl(var(--primary-foreground));
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius);
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.custom-button:hover {
+  background-color: hsl(var(--chart-3) / 0.9);
+  transform: translateY(-1px);
+}
+
+.custom-button:active {
+  transform: translateY(0);
+}
