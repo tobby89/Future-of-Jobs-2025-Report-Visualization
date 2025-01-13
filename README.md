@@ -1,6 +1,8 @@
 
 # Future of Jobs 2025 Report Visualization
 
+<img width="1066" alt="image" src="https://github.com/user-attachments/assets/fbe404f2-1198-4e95-ba24-ebcc6acc1827" />
+
 [Live Demo](https://v0-data-visualization-azyxajl06qz.vercel.app/)
 
 ## Description
