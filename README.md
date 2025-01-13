@@ -1,5 +1,5 @@
 
-# my-v0-project
+# Future of Jobs 2025 Report Visualization
 
 [Live Demo](https://v0-data-visualization-azyxajl06qz.vercel.app/)
 
